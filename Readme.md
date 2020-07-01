@@ -1,2 +1,2 @@
-### Conventional Calculator
-## using vanilla js, html, css
+##Conventional Calculator
+###  using vanilla js, html, css
